@@ -4,7 +4,7 @@ import { Server } from "socket.io";
 import {YSocketIO} from "y-socket.io/dist/server" 
 const app = express();
 const server = createServer(app);
-
+app.use(express.static("public"))
 
 const io = new Server(server,{
     cors:{
