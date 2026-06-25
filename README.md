@@ -1,5 +1,5 @@
 # ⚡ SyncCode
-
+f
 A state-of-the-art, high-performance, real-time collaborative developer workspace. SyncCode brings developers together by enabling low-latency, conflict-free code collaboration right in the browser. Powered by **Yjs (CRDTs)**, **Socket.io**, and the power of the industry-standard **Monaco Editor** (the engine behind VS Code), wrapped in a gorgeous futuristic dark glassmorphic interface built with **Tailwind CSS v4**.
 
 ---
